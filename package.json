@@ -1,0 +1,18 @@
+{
+  "name": "email-cli",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "bin/cli.js",
+  "scripts": {},
+  "bin": {
+    "email-cli": "./bin/cli.js"
+  },
+  "dependencies": {
+    "lodash.camelcase": "^4.3.0",
+    "mri": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}

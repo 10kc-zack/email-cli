@@ -1,0 +1,11 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all font-family="Helvetica, Arial, sans-serif"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <ttc-header/>
+        <ttc-footer/>
+    </mj-body>
+</mjml>
